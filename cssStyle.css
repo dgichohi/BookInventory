@@ -1,6 +1,7 @@
-h1 {
+.work {
     color: blue;
     background-color: lightpink;
     font-family: Arial, sans-serif;
     text-align: center;
+    text-decoration: dashed underline;
 }
